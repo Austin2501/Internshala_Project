@@ -21,15 +21,19 @@ Open your web browser and enter the following URL: "http://localhost/carrental."
 Use the following user login details:
 
 Username: test@gmail.com
-Password: Test@123
-Admin Panel Access:
 
-## To access the admin panel:
+Password: Test@123
+
+## Admin Panel Access:
+
+To access the admin panel:
 
 Open your web browser and enter the following URL: "http://localhost/carrental/admin."
 
 Use the following admin login details:
 
 Username: admin
+
 Password: Test@12345
+
 Please ensure that your web server (e.g., XAMPP, WAMP, or LAMP) is running, and you have imported the database structure for the project to work correctly.
