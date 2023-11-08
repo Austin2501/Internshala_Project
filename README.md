@@ -40,30 +40,30 @@ Please ensure that your web server (e.g., XAMPP, WAMP, or LAMP) is running, and 
 
 ## Login User Features
 
-Make a car booking
-Check your car booking history
-Edit your profile
-Change your password
-Share your feedback through testimonials
-Read testimonials from others
-Log out
+Make a car booking, 
+Check your car booking history, 
+Edit your profile, 
+Change your password, 
+Share your feedback through testimonials, 
+Read testimonials from others, 
+Log out.
 
 ## Admin Features
 
-Create new vehicle brands
-Oversee vehicle brands (Edit and Delete)
-Add new vehicles
-Administer vehicles (Edit and Delete)
-Handle car reservations (Confirm and Cancel)
-Manage testimonials (Activate and Deactivate)
-Handle contact queries
-Access user details
-Update website content
-Edit contact information
-Manage subscribers
-Monitor the admin dashboard (View user count, total bookings, subscribers, queries, etc.)
-Change own password
-Log out
+Create new vehicle brands, 
+Oversee vehicle brands (Edit and Delete), 
+Add new vehicles, 
+Administer vehicles (Edit and Delete), 
+Handle car reservations (Confirm and Cancel), 
+Manage testimonials (Activate and Deactivate), 
+Handle contact queries, 
+Access user details, 
+Update website content, 
+Edit contact information, 
+Manage subscribers, 
+Monitor the admin dashboard (View user count, total bookings, subscribers, queries, etc.), 
+Change own password, 
+Log out.
 
 That's All from my side.
 ### Thank You!!!
